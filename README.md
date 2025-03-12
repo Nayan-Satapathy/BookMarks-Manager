@@ -12,8 +12,8 @@ A simple and efficient **Bookmark Manager** built using Python and Tkinter to he
 ## 🛠️ Installation
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Nayan-Satapathy/bookmark-manager.git
-   cd bookmark-manager
+   git clone https://github.com/Nayan-Satapathy/BookMarks-Manager
+   cd BookMarks-Manager
 
 ## Install dependencies:
  - Install python latest version.
